@@ -3,7 +3,7 @@
 </div>
 
 ## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack...
+"Olá! Meu nome é Henrique Fernandes Machado e sou um aluno entusiasmado de programação. Atualmente estou participando de um treinamento com a Alura para aprimorar minhas habilidades e construir meu portfólio. Estou apaixonado por aprender e explorar o vasto mundo da programação.
 
 
 
