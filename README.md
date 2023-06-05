@@ -20,6 +20,9 @@
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=setovin&show_icons=true&theme=synthwave)
+
+
+
 #  Ferramentas do meu dia <img src="https://media.tenor.com/Pnb_hVWq2sgAAAAi/on-process-dig.gif" width="14%">
 
 <div style="display: inline_block"><br/>
