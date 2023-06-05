@@ -34,6 +34,10 @@
 <br/>
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setovin&layout=donut)](https://github.com/setovin/github-readme-stats)
+
+<br/>
+
 ## Suporte
 
 Para suporte, mande um email para henriquefm.ideal@gmail.com ou entre em nosso canal do Slack.
