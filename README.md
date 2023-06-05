@@ -1,1 +1,1 @@
-### Olá!<img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif.gif" alt="Waving Hand" width="5%" h>  meu nome é Henrique Fernandes e este sou eu  
+### Olá!<img src="https://media.tenor.com/AiFlDhPuslEAAAAi/alien-peace-sign-joypixels.gif" alt="Waving Hand" width="3%">  meu nome é Henrique Fernandes e este sou eu 
