@@ -2,7 +2,7 @@
     <img src="https://media.tenor.com/FNR0r9Bb6EwAAAAi/peace-out-victory-hand-emoji.gif" alt="Waving Hand" width="4%"> Meu nome é Henrique Fernandes e este sou eu: 
 </div>
 
-## 🚀 Sobre mim
+## <img src="https://media.tenor.com/o9YiJrdQFBYAAAAi/spinning-spin.gif" width="40">  Sobre mim
 "Olá! Meu nome é Henrique Fernandes Machado e sou um aluno entusiasmado de programação. Atualmente estou participando de um treinamento com a Alura para aprimorar minhas habilidades e construir meu portfólio. Estou apaixonado por aprender e explorar o vasto mundo da programação.
 
 
@@ -11,11 +11,16 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hen.rique_fm/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquefm.ideal@gmail.com)
 
+<br/>
+
+<div>
+<img align="right" alt="Seto-gif" src="https://cdn.discordapp.com/attachments/806040764483108904/1115412982848036864/ezgif-2-ff25102099.gif" width="20%" >
+</div>
 
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=setovin&show_icons=true&theme=synthwave)
-# Ferramentas do meu dia 
+#  Ferramentas do meu dia <img src="https://media.tenor.com/Pnb_hVWq2sgAAAAi/on-process-dig.gif" width="14%">
 
 <div style="display: inline_block"><br/>
 <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
