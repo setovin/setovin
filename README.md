@@ -27,7 +27,7 @@ Eu sou uma pessoa desenvolvedora full-stack...
 <br/>
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portifolio-gru.vercel.app)
 
 
 <br/>
@@ -43,7 +43,7 @@ Para suporte, mande um email para henriquefm.ideal@gmail.com ou entre em nosso c
 
 ## Autores
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@setovin](https://www.instagram.com/hen.rique_fm/)
 
 
 
