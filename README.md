@@ -1,5 +1,5 @@
 <div   style="color:violet">                            Olá!
-    <img src="https://media.tenor.com/fQBTAhT4nJ0AAAAi/bingus.gif" alt="Waving Hand" width="4%"> Meu nome é Henrique Fernandes e este sou eu: 
+    <img src="https://media.tenor.com/FNR0r9Bb6EwAAAAi/peace-out-victory-hand-emoji.gif" width="4%"> Meu nome é Henrique Fernandes e este sou eu: 
 </div>
  
 ## <img src="https://media.tenor.com/o9YiJrdQFBYAAAAi/spinning-spin.gif" width="40">  Sobre mim
